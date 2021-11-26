@@ -122,6 +122,102 @@ const quotes = [
     {
         quote: '“We can make this work, like couples who meet on Craigslist.”',
         person: 'Brian Griffin'
+    },
+    {
+        quote: "You'd better watch who you're calling a child, Lois. Because if I'm a child, you know what that makes you? A pedophile. And I'll be damned if I'm gonna be lectured by a pervert.",
+        person: "Peter Griffin"
+    },
+    {
+        quote: 'Giggity giggity giggity',
+        person: 'Quagmire'
+    },
+    {
+        quote: 'Woah, woah, woah, woah, woah, woah, woah, woah, woah, woah, woah, woah... Lois, this is not my Batman glass.',
+        person: 'Peter Griffin'
+    },
+    {
+        quote: 'Mum mum mum mum mummy mummy mummy mummy Lois... Hi',
+        person: 'Stewie Griffin'
+    },
+    {
+        quote: "Hello, 911? It's Quagmire. Yeah it's caught in the window this time.",
+        person: "Quagmire"
+    },
+    {
+        quote: 'The life of the wife is ended by the knife.',
+        person: 'Stewie Griffin'
+    },
+    {
+        quote: 'Giggity giggity goo',
+        person: 'Quagmire'
+    },
+    {
+        quote: "I've got an idea--an idea so smart that my head would explode if I even began to know what I'm talking about.",
+        person: 'Peter Griffin'
+    },
+    {
+        quote: "So, is there any tread left on the tires? Or at this point would it be like throwing a hot dog down a hallway?",
+        person: "Stewie Griffin"
+    },
+    {
+        quote: "Hey, mother, I come bearing a gift. I'll give you a hint. It's in my diaper and it's not a toaster.",
+        person: "Stewie Griffin"
+    },
+    {
+        quote: "Eh, you're overreacting Lois and you can't spell overreacting without ovary... 'cause you're a girl.",
+        person: "Peter Griffin"
+    },
+    {
+        quote: 'Excuse me, is your refrigerator running? Because if it is, it probably runs like you - very homosexually.',
+        person: 'Peter Griffin'
+    },
+    {
+        quote: 'Buttscratcher! Buttscrather! Buttscratcher!',
+        person: 'Peter Griffin'
+    },
+    {
+        quote: "Alright everyone but Chris keep your pants on and let's figure this out.",
+        person: 'Herbert the Pervert'
+    },
+    {
+        quote: "No Quagmire, we're not esupposed to!",
+        person: "Peter Griffin"
+    },
+    {
+        quote: "Her fists are so dangerous she's not allowed to be a lesbian.",
+        person: "Brian Griffin"
+    },
+    {
+        quote: "Lois, men aren't fat, only fat women are fat.",
+        person: "Peter Griffin"
+    },
+    {
+        quote: "NONONONONONO!",
+        person: "Cleveland Brown"
+    },
+    {
+        quote: "Hey there, you like popscicles? I got a whole cellar full of popscicles.",
+        person: "Herbert the Pervert"
+    },
+    {
+        quote: "What the deuce?",
+        person: "Stewie Griffin"
+    },
+    {
+        quote: "I'd leave my ass behind if it wasn't so perfectly attached to my sternum.",
+        person: "Peter Griffin"
+    },
+    {
+        quote: "Hello there, Kyle. You like nice today. I see you're wearing your big shorts with the baggy leg holes that flutter so carelessly in the breeze. Would like to come in for a glass of wine and a cupcake?",
+        person: "Herbert the Pervert"
+    },
+    {
+        quote: "Been working on that novel huh? Been working on that for three years now right? Gonna, gonna get that done? You know that novel, that novel you where making where friends become enemies and enemies become friends. You gonna get that done right?",
+        person: "Stewie Griffin"
+    },
+    {
+        quote: "I can't eat this it'll go straight to my vagina. That what girls worry about right? Having big vaginas?- Stewie",
+        person: "Stewie Griffin"
     }
 ];
 
